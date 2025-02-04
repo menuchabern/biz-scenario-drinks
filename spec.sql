@@ -1,9 +1,6 @@
 /* 
-i have a business that sells bottled drinks i want to record all the data for my drinks
-there's name of the drink, color, calories per bottle and ounces
-there's a few type of bottles, there's cans, plastic, glass or carton
-we also need to know the date each drink was produced, and the best by date 
-also we need to know how to store it either it has to be refrigerated, not refrigerated, or refrigerated after opening
+i have a business that sells bottled drinks i want to record all the data for my sales
+there's name of the drink, the date each drink was produced, and the best by date 
 in order to make sure each drink was sold when it was still fresh we like to record the date sold
 and of course the price
 
@@ -12,19 +9,13 @@ Questions
 Q: can the data be entered before it was sold to a customer?
 A: yes, we enter the date sold as we sell it
 
-Q: how many ounces does the biggest bottle hold?
-A: 36
-
-Q: could calories be zero?
-A: yes- seltzer has 0 calories
-
 Q: what's the range of the prices?
 A: 5.50  to 30 dollars
 
 Q: is there a specific amount of time in between the production date and best by date?
 A: yes. for drinks that are refrigerated the best by date is 5 weeks after the production date
 	for drinks that don't have to be refrigerated, the best by date is 70 days after the production date
-	for drinks that have to be refrigerated after opening, the best by date is 2 months after the production date
+	for drinks that have to be refrigerated after opening, the best by date is 60 months after the production date
 
 
 Reports:
